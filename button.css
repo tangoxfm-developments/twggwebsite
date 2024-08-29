@@ -1,0 +1,107 @@
+
+.btn {
+    padding: 23px 25px;
+    background: #0025f1;
+    border:4px solid rgba(0, 0, 0, 0.712);
+    outline: none;
+    border-radius: 10px;
+    box-shadow: 0 0 50px #0025f1; 
+    font-size: 35px;
+    color: #ffffff;
+    letter-spacing: 1.9px;
+    cursor: pointer;
+    transition:ease-in-out 0.6s;
+    background-image: url(/discord\ icon.png);   
+    background-repeat: no-repeat;
+    background-size: 45px;
+    align-items: center;
+    align-content: center;
+    align-self: center;
+    text-align: center;
+    background-position:top;
+    font-style: initial;
+    letter-spacing: 2px;
+    
+}
+
+
+.btn2
+{
+    padding: 23px 25px;
+    background: #ff0000;
+    border:4px solid rgba(0, 0, 0, 0.712);
+    outline: none;
+    border-radius: 10px;
+    box-shadow: 0 0 50px #ff0000; 
+    font-size: 35px;
+    color: #ffffff;
+    letter-spacing: 1.9px;
+    cursor: pointer;
+    transition:ease-in-out 0.6s;
+    background-image: url(/yotube\ icon#.png);
+    background-repeat: no-repeat;
+    background-size: 50px;
+    align-items: center;
+    align-content: center;
+    align-self: center;
+    text-align: center;
+    background-position: top;
+    font-style: initial;
+    letter-spacing: 2px;
+}
+
+.btn3
+{
+    padding: 23px 25px;
+    background: #00c3ff;
+    border:4px solid rgba(0, 0, 0, 0.712);
+    outline: none;
+    border-radius: 10px;
+    box-shadow: 0 0 50px #00c3ff; 
+    font-size: 35px;
+    color: #ffffff;
+    letter-spacing: 1.9px;
+    cursor: pointer;
+    transition:ease-in-out 0.6s;
+    background-image: url(/discord\ icon.png);
+    background-repeat: no-repeat;
+    background-size: 50px;
+    align-items: center;
+    align-content: center;
+    align-self: center;
+    text-align: center;
+    background-position: top;
+    font-style: initial;
+    letter-spacing: 2px;
+}
+
+
+.btn:hover 
+{
+    background-color: #06c7f7;
+    box-shadow: 0 0 100px #06c7f7; 
+    border:4px solid rgba(0, 0, 0, 0.712);
+    border-radius: 1000px;
+    font-size: 42px;
+
+}
+
+.btn2:hover 
+{
+    background-color: #f70606;
+    box-shadow: 0 0 100px #f70606; 
+    border:4px solid rgba(0, 0, 0, 0.712);
+    border-radius: 1000px;
+    font-size: 42px;
+
+} 
+
+.btn3:hover 
+{
+    background-color: #0b4e5a;
+    box-shadow: 0 0 100px #0b4e5a; 
+    border:4px solid rgba(0, 0, 0, 0.712);
+    border-radius: 1000px;
+    font-size: 42px;
+
+} 
